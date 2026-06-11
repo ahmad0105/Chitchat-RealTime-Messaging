@@ -1,16 +1,21 @@
-# chitchat
+# Chatchit - Real-Time Messaging Platform 🚀
 
-A new project.
+A high-performance, cross-platform real-time communication application built with **Flutter** and **Firebase**. 
 
-## Getting Started
+## 🎥 Video Demo
+Check out the full application flow, UI/UX, and real-time messaging speed in action:
+**[👉 Watch the App Demo (YouTube Shorts)](https://youtube.com/shorts/-1CIKsubpSM?feature=share)**
 
-This project is a starting point for a Flutter application.
+## 🛠️ Architecture & Tech Stack
+- **Framework:** Flutter
+- **Backend/Database:** Firebase (Firestore, Authentication, Storage, Realtime DB)
+- **Architecture:** Clean Architecture
+- **State Management:** Riverpod
+- **Real-Time Communication:** Agora RTC Engine
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+- Cross-platform support (iOS & Android).
+- Real-time message delivery and data stream reliability.
+- Voice/Video call integration using Agora.
+- Secure user authentication and state transitions.
+- Highly scalable state management enforced through Clean Architecture and Riverpod.
