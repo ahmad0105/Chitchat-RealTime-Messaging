@@ -1,4 +1,4 @@
-# Chatchit - Real-Time Messaging Platform 🚀
+# Chitchat - Real-Time Messaging Platform 🚀
 
 A high-performance, cross-platform real-time communication application built with **Flutter** and **Firebase**. 
 
